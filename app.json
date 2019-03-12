@@ -1,0 +1,24 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/html"
+    },
+    {
+      "url": "heroku/javascript"
+    },
+    {
+      "url": "heroku/css"
+    }
+  ],
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "web_viz",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
